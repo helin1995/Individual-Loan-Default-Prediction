@@ -1,3 +1,5 @@
+参考代码：[https://github.com/jiguang123/Credit-Loans-of-Data-Analysis](https://github.com/jiguang123/Credit-Loans-of-Data-Analysis)
+
 # 实验记录
 
 项目分为探索性数据分析（EDA）、数据预处理和模型
